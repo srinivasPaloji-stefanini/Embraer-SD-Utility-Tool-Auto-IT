@@ -1,0 +1,483 @@
+Software Title,Collection ID
+.NETSDK_6.0.413,BCT0041B
+.NET_Framework_4.7.2,BCT001D4
+.NET_Framework_Activate_3.5,BCT001DC
+7- Zip_x64,BCT000FF
+Adobe_CreativeCloud_5.2.1.441_X64_CR,BCT003E2
+Adobe Flash Player ActiveX 32.0.0.114,BCT001E6
+Adobe Reader DC,BCT00142
+Adobe Reader DC 23.003.20201 x64,BCT00410
+Adobe Reader DC 23.003.20201 x86,BCT00413
+Apple iTunes 12.10.7.3 x64,BCT00273
+Backlash170-190,BCT0024D
+Beyond Trust,BCT0015C
+Citrix Workspace 2009 20.9.6.34,BCT0029F
+Click Share,BCT0039C
+Data_DLP_Endpoint,BCT00331
+Dassault_CATIACompPlayerR2023_7.10.2_x64,BCT003F3
+Duo 4.0.5.458_FailOpen ,BCT0020F
+Duo 4.0.5.458_Online ,BCT00212
+Dell CommandUpdate 4.9.0,BCT00407
+Dell Power Manager,BCT0037D
+eTechPubs Commercial 1.0 x64,BCT00227
+eTechPubs Tech Care EJX Defense x64,BCT00282
+Embraer Default Browser Edge,BCT003A9
+Embraer IESettings 2.0,BCT00414
+Embraer PowerSettings,BCT00389
+Embraer VpmWeb 4.0,BCT003F2
+EmbraerManuals Shortcut,BCT001C5
+Embraer PointAndPrintPrinterAllow 1.0,BCT003B7
+Embraer LocalAdminPasswordNeverExpire 1.0,BCT003B1
+Embraer LearningHub 1.0 Desktop Shortcut,BCT003B3
+Embraer OrlandoTechPubs 1.0 Desktop Shortcut,BCT003B4
+Embraer RegionalTraining 1.0 Desktop Shortcut,BCT003B5
+Embraer Sam 1.0 Desktop Shortcut,BCT003B6
+Embraer DeltekPortal 1.0 shortcut,BCT003B9
+Embraer JAXPortal 1.0 shortcut,BCT003BA
+EmpowerMX_FleetCycle,BCT001BD
+FlyEmbraer Shortcut,BCT001C3
+Free FDR 2.4.8,BCT002B7
+GBI 6.9.0.0,BCT002B3
+GE_CF34-10E_1.0,BCT0019E
+GE_CF34-8E_1.0,BCT001A1
+GE_SPM_1.0,BCT001A2
+Global Protect  x64 5.2.8,BCT00320
+Global Protect 5.2.8 x64 CR (BNA and MCN),BCT0039A
+Google Chrome 113,BCT00402
+GreenShot,BCT000FB
+HP T730 Drivers,BCT003C9
+Honeywell_APMRestoration_2.2,BCT0016F
+Honeywell_APMSettings_2.1,BCT0016D
+Honeywell_CMCRemoteTerminal_23.1,BCT00168
+Honeywell_e-EngineInterface_3.0,BCT0013B
+IBM Lotus Notes FP10 w/ HF315,BCT001F2
+Java 8 Update 201,BCT001EE
+Java 8 Update 191,BCT001E0
+Jeppesen Distribution Manager 3.11.0.156,BCT002B0
+Kannad E Prog 2.2.0,BCT003EA
+Konica,BCT00376
+Lenovo HotKey,BCT0010D
+Lenovo System Update Disable,BCT00180
+Microsoft Access Runtime_2010,BCT00138
+Microsoft AzureInfoProtection,BCT00352
+Microsoft One Drive 21.030,BCT0032E
+MS Office365 16.0.11328.20438 CR Enable,BCT0038D
+MS Office365 UpdateChannel CR,BCT0041C
+MS Edge Updated,BCT0037B
+MS Store 1909,BCT00297
+MS Store 21H1,BCT0034F
+MS PowerBIDesktop 2.116.966 x32,BCT003FD
+MS PowerBIDesktop 2.116.966 x64,BCT003F4
+MLBPortalShortcut,BCT00250
+Microsoft OneDrive_1.0,BCT00330
+NVIDIA ControlPanel,BCT0038F
+Office365 SecurityPatches,BCT002E0
+Office365Enterprise,BCT00379
+Oracle Client 11 - BNA,BCT0018F
+Oracle Client 11,BCT0018E
+Powershell 4.0,BCT00026
+QlikView,BCT00116
+Quantum Dec2017 Upgrade,BCT0017E
+Quantum Control Client 10.03_BNA,BCT00195
+Quantum Control Client 10.03_Non_BNA,BCT00194
+REACH Digital Signage_1.2.0.2,BCT00178
+RSA SecurIDAuthenticate,BCT0040F
+SAP_SecureLoginClient_3.0,BCT003EC
+SAP 7.4 ADPRD,BCT0030A
+SAP_GUI_7.4_Update_0.1,BCT00350
+SAP Environment Variable Executive_INI_1.0,BCT0032B
+Scan Snap-i X500,BCT002E3
+Senomix Integration 2.0.9.0 x64,BCT00301
+TITUS Classification 18,BCT0025A
+TreeSize Pro,BCT0003E
+Trend Micro Apex One Security Agent,BCT00321
+UltraNav Synaptics Mouse,BCT0007A
+VLC Media Player,BCT000A9
+VMWare Horizon Client 5.5.2.0,BCT00326
+Zoom 5.1.28656,BCT00281
+Zscaler 4.1.0.82,BCT003CD
+Windows 10(x64) Touchless,BCT0029C
+Win_10_Upgrade_21H1,BCT002D1
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,NOV000DD
+,NOV000E5
+,
+,
+,
+,
+,
+,
+,
+,
+,NOV000E3
